@@ -1,0 +1,4 @@
+baseURL = 'https://snack.supply/'
+languageCode = 'en-us'
+title = '🍩 snack supply 🍟'
+theme = 'snacks'

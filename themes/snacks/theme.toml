@@ -1,0 +1,11 @@
+name = 'snacks'
+license = 'MIT'
+description = 'a basic theme for pixls blog'
+
+# Taxonomy terms
+tags = ['blog']
+
+# If the theme has a single author
+[author]
+  name = 'pixls'
+  homepage = 'Your website'
