@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Wed, 13 Nov 2024 11:42:07 -0500</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Hello, World I&amp;rsquo;ve decided I should finally make a little website just for random thoughts and links. I haven&amp;rsquo;t put a ton of thought into what this all will look like, but i&amp;rsquo;m working on it, hopefully I&amp;rsquo;ll actually keep up with this thing.</description>
+      <description>I&amp;rsquo;ve decided I should finally make a little website just for random thoughts and links. I haven&amp;rsquo;t put a ton of thought into what this all will look like, but i&amp;rsquo;m working on it, hopefully I&amp;rsquo;ll actually keep up with this thing.&#xA;For now, this site is made with Hugo, because I&amp;rsquo;ve used it before, and it&amp;rsquo;s quite easy to make something simple and nice, and in theory it&amp;rsquo;ll be easy to jump into it and update it.</description>
     </item>
   </channel>
 </rss>
