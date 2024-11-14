@@ -4,6 +4,7 @@
   --pink: #EAA09C;
   --blue: #8DBAED;
   --light-pink: #F5CABF;
+  --black: #081512;
 }
 
 body {
@@ -27,12 +28,23 @@ h1 {
   margin-bottom: 5px;
 }
 
+main {
+  padding-bottom: 2rem;
+}
+
 footer {
   border-top: 1px solid var(--light-pink);
   margin-top: 1rem;
+  margin-left: -1rem;
   font-size: smaller;
-  position: absolute;
+  position: fixed;
   bottom: 0;
+  width: 100%;
+  background-color: var(--background-color);
+}
+
+footer p {
+  margin: 5px 15px;
 }
 
 a {
@@ -42,6 +54,17 @@ a {
 
 nav {
   margin-left: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+figcaption h4 {
+  font-style: italic;
+  margin-top: 0px;
+  font-size: smaller;
+  font-weight: normal;
 }
 
 .menu {
@@ -85,4 +108,8 @@ nav {
 
 .Tags li {
   margin: 0 5px;
+}
+
+.timestamp {
+  font-size: smaller;
 }

@@ -6,8 +6,15 @@
     <description>Recent content in Home on 🍩 snack supply 🍟</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 11:42:07 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 19:19:38 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a Mini E-Cargo Bike</title>
+      <link>http://localhost:1313/posts/making-a-mini-ecargo-bike/</link>
+      <pubDate>Wed, 13 Nov 2024 19:19:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/making-a-mini-ecargo-bike/</guid>
+      <description>Draft of a mini cargo bike geometry For a while now, I&amp;rsquo;ve been feeling like I should make a little e-cargo bike. I&amp;rsquo;d looked at examples like the Specialized Globe Haul ST which is very close to being what I want, and a lot of custom projects like this one from LaMarche (based in Philly!), or this one from Destroy Bikes. This format of bike is really appealing to me because it is more or less the same length as a standard bicycle, while fitting a good amount of cargo carrying capacity.</description>
+    </item>
     <item>
       <title>Hello, World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
